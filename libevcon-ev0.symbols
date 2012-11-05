@@ -1,0 +1,2 @@
+libevcon-ev.so.0 libevcon-ev0 #MINVER#
+ evcon_loop_from_ev@Base 0.1.0

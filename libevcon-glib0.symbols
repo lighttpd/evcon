@@ -1,0 +1,4 @@
+libevcon-glib.so.0 libevcon-glib0 #MINVER#
+ evcon_glib_allocator@Base 0.1.0
+ evcon_loop_from_glib@Base 0.1.0
+ evcon_loop_glib_get_context@Base 0.1.0

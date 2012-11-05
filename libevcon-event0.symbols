@@ -1,0 +1,2 @@
+libevcon-event.so.0 libevcon-event0 #MINVER#
+ evcon_loop_from_event@Base 0.1.0
